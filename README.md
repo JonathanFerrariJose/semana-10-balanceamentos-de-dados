@@ -1,2 +1,2 @@
-# SEMANA-10-BALANCEAMENTO-DE-DADOS
+# semana-10-balanceamento-de-dados
 Semana 10
